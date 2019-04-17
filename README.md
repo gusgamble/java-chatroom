@@ -1,2 +1,3 @@
 # java-chatroom
-A very simple java chatroom to operate on a local network. This was implemented for my software development class
+
+This simple chatroom is meant to be a proof of concept as well as one of my first multithreaded application. The main framework of this was adapted from my Software Engineering class.
